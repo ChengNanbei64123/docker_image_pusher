@@ -3,5 +3,3 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
-github.com/ArtisanCloud/PowerWeChat/v2 v2.0.40
-github.com/ArtisanCloud/PowerWeChat/v3 v3.2.10
